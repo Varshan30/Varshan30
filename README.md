@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me @varshansasi13@gmail.com
-- ⚡ Fun fact: Buy me dessert..
+- ⚡ Buy me dessert..
 
 <!---
 Varshan30/Varshan30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
