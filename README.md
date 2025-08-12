@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Varshan
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ML projects
-- 📫 How to reach me @varshansasi13@gmail.com
+-  I’m currently learning Machine Learning
+-  I’m looking to collaborate on ML projects
+-  How to reach me @varshansasi13@gmail.com
   
 
 <!---
