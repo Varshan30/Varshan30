@@ -2,7 +2,9 @@
 <p align="center" ></p>
 
 # 💫 About Me:
-Hi 👋 I'm Srivarshan, a 2nd-year B.Tech student in Computer Science, passionate about building innovative web solutions and exploring the world of Machine Learning. Currently working on projects that blend creativity with real-world impact. I also have a growing interest in IoT and enjoy experimenting with connected technologies.
+Hi 👋 I'm **Srivarshan**, a curious mind in my 2nd year of B.Tech (Computer Science).  
+I love **building full-stack web apps**, experimenting with **AI projects**, and exploring how technology can create real-world impact.  
+💡 Always learning, always creating — turning coffee ☕ into code 💻.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/srivarshan-s-2a4642341/)  
@@ -45,21 +47,28 @@ Hi 👋 I'm Srivarshan, a 2nd-year B.Tech student in Computer Science, passionat
 ---
 
 ## 🏆 GitHub Trophies
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Varshan30&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
 
 ---
 
-### ✨ Motivation
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height=225 />
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" atl="gif" height=300>
+## 📌 Current Focus
+- 🚀 Building **scalable full-stack apps**  
+- 🤖 Improving my **AI & face recognition projects**  
+- 🛠️ Gaining expertise in **backend + databases**  
+- 🌟 Exploring opportunities to **contribute to open-source**  
 
 ---
 
 ### 🔝 Top Contributed Repo
+<div align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=Varshan30&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
+
 
 
