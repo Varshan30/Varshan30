@@ -69,8 +69,6 @@
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=Varshan30&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 
-![snake gif](https://github.com/rshd123/rshd123/blob/output/github-snake-dark.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
