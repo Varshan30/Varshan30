@@ -20,11 +20,6 @@ Hi 👋 I'm Srivarshan, a 2nd-year B.Tech student in Computer Science, passionat
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="75"/>
 <br/>
 
-<!-- ML / AI -->
-<img src="https://cdn.worldvectorlogo.com/logos/openvino.svg" height="75"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-machine-learning-19-599664.png" height="75"/>
-<br/>
-
 <!-- Tools -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="75"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="75"/>
@@ -39,9 +34,15 @@ Hi 👋 I'm Srivarshan, a 2nd-year B.Tech student in Computer Science, passionat
 ---
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Varshan30&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Varshan30&theme=dark&hide_border=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshan30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Varshan30&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Varshan30&theme=dark&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshan30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Varshan30&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
@@ -60,4 +61,5 @@ Hi 👋 I'm Srivarshan, a 2nd-year B.Tech student in Computer Science, passionat
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
+
 
