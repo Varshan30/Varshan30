@@ -55,7 +55,6 @@ I love **building full-stack web apps**, experimenting with **AI projects**, and
 
 ## 📌 Current Focus
 - 🚀 Building **scalable full-stack apps**  
-- 🤖 Improving my **AI & face recognition projects**  
 - 🛠️ Gaining expertise in **backend + databases**  
 - 🌟 Exploring opportunities to **contribute to open-source**  
 
