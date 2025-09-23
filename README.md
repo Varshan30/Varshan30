@@ -4,7 +4,7 @@
 # 💫 About Me:
 Hi 👋 I'm **Srivarshan**, a curious mind in my 2nd year of B.Tech (Computer Science).  
 I love **building full-stack web apps**, experimenting with **AI projects**, and exploring how technology can create real-world impact.  
-💡 Always learning, always creating — turning coffee ☕ into code 💻.
+💡 Always learning, always creating — turning coffee ☕ into code 💻..
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/srivarshan-s-2a4642341/)  
