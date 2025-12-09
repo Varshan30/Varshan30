@@ -2,7 +2,7 @@
 <p align="center" ></p>
 
 # 💫 About Me:
-Hi 👋 I'm **Srivarshan**, a curious mind in my 2nd year of B.Tech (Computer Science).  
+Hi 👋 I'm **Srivarshan**, a curious mind in my 3 nd year of B.Tech (Computer Science).  
 I love **building full-stack web apps**, experimenting with **AI projects**, and exploring how technology can create real-world impact.  
 💡 Always learning, always creating — turning coffee ☕ into code 💻..
 
