@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Srivarshan. I build web apps, explore AI, and love learning new things every day.
 
 
